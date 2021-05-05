@@ -11,4 +11,5 @@
 npm i 
 ``
 
-## Serveur
+## Illustration
+<img src="Screenshot_2021-05-05 Ionic App.png" alt="Illustration du rendu visuel"/>
